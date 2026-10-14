@@ -1,0 +1,4 @@
+myls
+*.o
+.DS_Store
+*~
